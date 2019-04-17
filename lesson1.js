@@ -1,0 +1,1 @@
+let yourArray = [23, 24, "kobe", "lebron", true]; // change this line
